@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Maximum_Population_Year_1854 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        System.out.println("eneter length");
+        System.out.println("enter length");
         int len = in.nextInt();
         int[][] arr = new int[len][2];
         System.out.println("enter the array elements pls");
